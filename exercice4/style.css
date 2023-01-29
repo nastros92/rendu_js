@@ -1,0 +1,20 @@
+body ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+body button{
+    margin-top: 4rem;
+    margin-left: 42rem;
+    font-size: 1.5rem;
+}
+li{
+    background-color: black;
+    color: red;
+}
+  
+li.classe {
+    background-color: red;
+    color: black;
+}
+  
